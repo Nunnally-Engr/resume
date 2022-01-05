@@ -57,7 +57,7 @@
 | Firebase Authentication      | 1 年     | 簡単な Web サービスを制作できる  |
 | Firebase Functions           | 1 年     | 簡単な Web サービスを制作できる  |
 | Firebase Realtime Database   | 1 年     | 簡単な Web サービスを制作できる  |
-| Firebase Firestore           | 1 年     | 簡単な Web サービスを制作できる  |
+| Firebase Firestore           | 1.3 年   | 簡単な Web サービスを制作できる  |
 | Firebase Hosting             | 1 年     | 簡単な Web サービスを制作できる  |
 | SQL Server(2000・2005・2012) | 6 年     | テーブル設計・CRUD の操作が可能  |
 | Oracle(7・9i・10g)           | 9 年     | テーブル設計・CRUD の操作が可能  |
@@ -80,6 +80,12 @@
 ### 株式会社 diffeasy（2018/05〜現在）
 
 #### ■ 実績
+
+##### 【自社】銀行系サービス
+
+- 担当：フロントエンド開発
+- 開発環境： Angular12、TypeScript、Firebase
+- 内容：プロトタイプ制作
 
 ##### 【自社】大会運営サービス
 
