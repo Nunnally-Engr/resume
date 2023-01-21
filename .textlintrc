@@ -9,7 +9,7 @@
         "max": 3
       },
       "max-ten": {
-        "max": 3
+        "max": 10
       },
       "max-kanji-continuous-len": {
         "max": 10

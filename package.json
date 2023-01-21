@@ -4,7 +4,9 @@
   "description": "resume template",
   "scripts": {
     "lint": "textlint docs/README.md",
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+    "lint-p": "textlint docs/README_PRIVATE.md",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
+    "build:pdf-p": "md-to-pdf docs/README_PRIVATE.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
   "devDependencies": {
